@@ -8,5 +8,7 @@ The project involved designing an experimental setup from scratch to visualize f
 
 
 ## About the Media Processing
-The `processed_oscillation.gif` was generated from a 600-frame sequence processed via ImageJ. A thresholding technique and a white background were applied to isolate and highlight the floater's kinematics. 
-*Note:* The sequence is accelerated by a factor of 39x
+The following gif was generated from a 600-frame sequence processed via ImageJ. A thresholding technique and a white background were applied to isolate and highlight the floater's kinematics. 
+*Note:* The sequence is accelerated by a factor of 39x. 
+
+Images & Gif: waiting for upload, Git is currently facing some issues.
