@@ -1,4 +1,5 @@
 
+
 # Thermal Insulating Floater Oscillations under Rayleigh-Bénard Convection
 
 This repository contains the code, bibliography, experimental media, and pptx support for oral defense.
@@ -11,4 +12,5 @@ The project involved designing an experimental setup from scratch to visualize f
 The following gif was generated from a 600-frame sequence processed via ImageJ. A thresholding technique and a white background were applied to isolate and highlight the floater's kinematics. 
 *Note:* The sequence is accelerated by a factor of 39x. 
 
-Images & Gif: waiting for upload, Git is currently facing some issues.
+
+<img width="584" height="292" alt="Capture d’écran 2025-04-10 à 20 41 56" src="https://github.com/user-attachments/assets/6fcd7e09-fecf-47e8-81a3-4df4b317cb88" />
