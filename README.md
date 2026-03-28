@@ -18,5 +18,5 @@ The following gif was generated from a 600-frame sequence processed via ImageJ. 
 
 https://github.com/user-attachments/assets/7dadb0ff-34b7-4ca1-860f-167471961471
 
-
+Schematic view of a two complementary *Rayleigh-Bénard* convection cells: 
 <img width="584" height="292" alt="Capture d’écran 2025-04-10 à 20 41 56" src="https://github.com/user-attachments/assets/6fcd7e09-fecf-47e8-81a3-4df4b317cb88" />
