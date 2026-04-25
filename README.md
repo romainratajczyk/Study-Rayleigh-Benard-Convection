@@ -9,7 +9,9 @@
 This repository contains the code, bibliography, experimental media, and pptx support for oral defense.
 
 ## Project Overview
-The project involved designing an experimental setup from scratch to visualize fluid dynamics. We utilized shadowgraphy (ombroscopie) to capture the convective flow and applied computer vision techniques to extract the floater's kinematics and the fluid's velocity fields.
+The project involved designing an experimental setup from scratch to visualize fluid dynamics. We utilized shadowgraphy (ombroscopie) to capture the convective flow and applied computer vision techniques to extract the floater's kinematics and the fluid's velocity fields. 
+At a float-to-tank length ratio of 3:4, Rayleigh-Bénard convection no longer induces floater oscillations.
+
 
 
 ## About the Media Processing
